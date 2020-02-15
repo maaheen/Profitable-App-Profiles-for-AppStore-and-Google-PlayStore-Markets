@@ -1,4 +1,4 @@
 # Profitable-App-Profiles-for-AppStore-and-Google-PlayStore-Markets
+Here,I have done data anlysis for a company which is developing free apps.The main source of revenue generation for them is through the in-app ads.This means the number of app users would mostly influence the revenue.Our goal for this project is to analyze data to help our developers understand what type of apps are likely to attract more users.I have analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
 
-I have analyzed data about the App Store and Google Play mobile apps with the goal of recommending an app profile that can be profitable for both markets.
 The conclusion was that taking a popular book (perhaps a more recent book) and turning it into an app could be profitable for both the Google Play and the App Store markets. The markets are already full of libraries, so we need to add some special features besides the raw version of the book. This might include daily quotes from the book, an audio version of the book, quizzes on the book, a forum where people can discuss the book, etc.
